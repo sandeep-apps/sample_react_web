@@ -1,0 +1,28 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "class": "Online",
+      "course": "NLP",
+      "price": 15000,
+      "description": "This course introduces the basics of AI, covering core concepts such as deep learning, machine learning, and neural networks. You’ll explore generative AI models, including large language models (LLMs), and their capabilities. Additionally, you’ll learn about AI applications in domains like natural language processing (NLP), computer vision, and robotics. The course also delves into AI ethics and governance.",
+      "course_img": "src/assets/IMG-20240726-WA0037.jpg"
+    },
+    {
+      "id": 2,
+      "class": "Online recording",
+      "course": "AI/ML",
+      "price": 25000,
+      "description": "This course explores the foundations of modern AI, including deep learning, machine learning, and neural networks. You’ll study generative AI models, practical applications, and ethical considerations. Whether you’re a professional, enthusiast, or student, this course provides a solid understanding of AI fundamentals.",
+      "course_img": "src/assets/IMG-20240726-WA0036.jpg"
+    },
+    {
+      "id": 3,
+      "class": "Online",
+      "course": "AI Image processing",
+      "price": 30000,
+      "description": "Dive into AI image processing! This course covers the basics of AI, including deep learning and neural networks. You’ll explore generative AI models and their capabilities. Discover how AI revolutionizes work environments and learn about career opportunities in this field.",
+      "course_img": "src/assets/IMG-20240726-WA0044.jpg"
+    }
+  ]
+}
